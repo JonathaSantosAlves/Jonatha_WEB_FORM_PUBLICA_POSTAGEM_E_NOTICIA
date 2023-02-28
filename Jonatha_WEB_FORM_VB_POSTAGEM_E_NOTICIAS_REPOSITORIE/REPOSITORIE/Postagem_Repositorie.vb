@@ -4,7 +4,7 @@ Imports Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_DOMAIN
 Public Class Postagem_Repositorie
     Implements IPostagem
 
-    Private PROJETOS01 As SqlConnection = New SqlConnection("data source=seu_servidor;initial catalog=seu_bd;user id=seu_usuario;password=sua-senha;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False")
+    Private PROJETOS01 As SqlConnection = New SqlConnection("data source=seu_servidor;initial catalog=seu_bd;user id=seu_usuario;password=sua_senha;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False")
     Private selecionar, inserir, deleta, atualizar As SqlCommand
     Private leitura As SqlDataReader
 

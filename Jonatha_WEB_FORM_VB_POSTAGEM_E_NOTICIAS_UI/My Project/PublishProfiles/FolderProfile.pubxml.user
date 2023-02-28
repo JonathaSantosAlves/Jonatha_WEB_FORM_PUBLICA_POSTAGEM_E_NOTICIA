@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\jonat\source\repos\Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS\Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2023-02-27T19:52:00.1743089Z;True|2023-02-27T16:43:52.8067711-03:00;True|2023-02-27T16:43:43.3740423-03:00;True|2023-02-27T16:24:59.8042931-03:00;True|2023-02-22T00:30:14.3248487-03:00;True|2023-02-22T00:14:57.2228254-03:00;True|2023-02-22T00:12:06.3305769-03:00;True|2023-02-22T00:01:19.0385479-03:00;True|2023-02-21T23:44:12.5741787-03:00;</History>
+    <History>True|2023-02-28T07:57:44.9024722Z;True|2023-02-28T04:54:01.6177377-03:00;True|2023-02-27T16:52:00.1743089-03:00;True|2023-02-27T16:43:52.8067711-03:00;True|2023-02-27T16:43:43.3740423-03:00;True|2023-02-27T16:24:59.8042931-03:00;True|2023-02-22T00:30:14.3248487-03:00;True|2023-02-22T00:14:57.2228254-03:00;True|2023-02-22T00:12:06.3305769-03:00;True|2023-02-22T00:01:19.0385479-03:00;True|2023-02-21T23:44:12.5741787-03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -25,19 +25,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/21/2023 23:44:10</publishTime>
     </File>
     <File Include="bin/Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_REPOSITORIE.dll">
-      <publishTime>02/27/2023 16:51:58</publishTime>
+      <publishTime>02/28/2023 04:53:59</publishTime>
     </File>
     <File Include="bin/Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_REPOSITORIE.pdb">
-      <publishTime>02/27/2023 16:51:58</publishTime>
+      <publishTime>02/28/2023 04:53:59</publishTime>
     </File>
     <File Include="bin/Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.dll">
-      <publishTime>02/27/2023 16:51:58</publishTime>
+      <publishTime>02/28/2023 04:57:44</publishTime>
     </File>
     <File Include="bin/Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.pdb">
-      <publishTime>02/27/2023 16:51:58</publishTime>
+      <publishTime>02/28/2023 04:57:44</publishTime>
     </File>
     <File Include="bin/Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.xml">
-      <publishTime>02/27/2023 16:51:58</publishTime>
+      <publishTime>02/28/2023 04:57:44</publishTime>
     </File>
     <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
       <publishTime>10/18/2022 13:19:40</publishTime>
@@ -244,10 +244,19 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/21/2023 12:56:41</publishTime>
     </File>
     <File Include="Views/Home/Pagina_Inicial.aspx">
-      <publishTime>02/21/2023 16:19:57</publishTime>
+      <publishTime>02/28/2023 04:21:01</publishTime>
+    </File>
+    <File Include="Views/Noticias/Noticias_Alterar.aspx">
+      <publishTime>02/28/2023 04:31:27</publishTime>
+    </File>
+    <File Include="Views/Noticias/Noticias_Pagina_Inicial.aspx">
+      <publishTime>02/28/2023 04:27:34</publishTime>
+    </File>
+    <File Include="Views/Noticias/Noticias_Registrar.aspx">
+      <publishTime>02/28/2023 04:29:08</publishTime>
     </File>
     <File Include="Views/Postagem/Potagem_Alterar.aspx">
-      <publishTime>02/27/2023 06:43:24</publishTime>
+      <publishTime>02/28/2023 03:40:16</publishTime>
     </File>
     <File Include="Views/Postagem/Potagem_Pagina_Inicial.aspx">
       <publishTime>02/26/2023 21:35:46</publishTime>
@@ -256,7 +265,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/25/2023 10:34:58</publishTime>
     </File>
     <File Include="Views/Shared/Site.Master">
-      <publishTime>02/26/2023 21:35:46</publishTime>
+      <publishTime>02/28/2023 04:57:08</publishTime>
     </File>
     <File Include="Web.config">
       <publishTime>02/27/2023 16:24:58</publishTime>

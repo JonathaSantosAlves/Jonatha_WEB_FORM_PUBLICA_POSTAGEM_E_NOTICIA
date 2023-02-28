@@ -37,6 +37,87 @@ Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI
  Retorna o objeto de log Asp.
  </summary>
 </member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Alterar._temp_lbl">
+<summary>
+Controle temp_lbl.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Alterar._id_post">
+<summary>
+Controle id_post.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Alterar._txtTITULO">
+<summary>
+Controle txtTITULO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Alterar._slcTIPO">
+<summary>
+Controle slcTIPO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Alterar._btatualizar">
+<summary>
+Controle btatualizar.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Registrar._txtTITULO">
+<summary>
+Controle txtTITULO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Registrar._slttipo">
+<summary>
+Controle slttipo.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Registrar._txtARQUIVO">
+<summary>
+Controle txtARQUIVO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Noticias_Registrar._btcadastrar">
+<summary>
+Controle btcadastrar.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
 <member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._temp_lbl">
 <summary>
 Controle temp_lbl.
@@ -49,6 +130,42 @@ Para modificar, mova a declaração de campo do arquivo de designer a um arquivo
 <member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._id_post">
 <summary>
 Controle id_post.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._txtTITULO">
+<summary>
+Controle txtTITULO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._txtDESCRICAO">
+<summary>
+Controle txtDESCRICAO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._slcTIPO">
+<summary>
+Controle slcTIPO.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:Jonatha_WEB_FORM_VB_POSTAGEM_E_NOTICIAS_UI.Potagem_Alterar._btatualizar">
+<summary>
+Controle btatualizar.
 </summary>
 <remarks>
 Campo gerado automaticamente.
